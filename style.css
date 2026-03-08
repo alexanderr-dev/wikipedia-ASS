@@ -1,0 +1,276 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #101418;
+}
+
+main {
+    text-align: center;
+}
+
+.wikicontainer {
+    margin-top: 35px;
+}
+
+.wikicontainer h1 {
+    font-size: 32px;
+    font-weight: 300;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.wikicontainer p {
+    margin-top: 3px;
+}
+
+.wikicontainer p strong {
+    background-color: #FFE49C;
+    padding: 3px 6px;
+}
+
+.flexcontainer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.firstside {
+    /* text-align: center; */
+    margin-top: 3%;
+}
+
+.engA {
+    /* margin: 7px 0 7px 350%; */
+    /* background-color: aqua; */
+    margin-left: 500px;
+    margin-bottom: 15px;
+    width: 150px;
+}
+
+.engA:hover {
+    background-color: #27292D;
+}
+
+.engA a {
+    font-size: 16px;
+    font-weight: 700;
+    text-decoration: none;
+    color: #87A1E6;
+    /* margin-bottom: 20px; */
+
+}
+
+.engA small {
+    color: #A2A9B1;
+}
+
+.engB {
+    margin-left: 450px;
+    margin-bottom: 15px;
+    width: 150px;
+}
+
+.engB:hover {
+    background-color: #27292D;
+}
+
+.engB a {
+    font-size: 16px;
+    font-weight: 700;
+    text-decoration: none;
+    color: #87A1E6;
+}
+
+.engB small {
+    color: #A2A9B1;
+}
+
+.engC {
+    margin-left: 420px;
+    margin-bottom: 15px;
+    width: 150px;
+}
+
+.engC:hover {
+    background-color: #27292D;
+}
+
+.engC a {
+    font-size: 16px;
+    font-weight: 700;
+    text-decoration: none;
+    color: #87A1E6;
+}
+
+.engC small {
+    color: #A2A9B1;
+}
+
+
+.engD {
+    margin-left: 450px;
+    margin-bottom: 15px;
+    width: 150px;
+}
+
+.engD:hover {
+    background-color: #27292D;
+}
+
+.engD a {
+    font-size: 16px;
+    font-weight: 700;
+    text-decoration: none;
+    color: #87A1E6;
+}
+
+.engD small {
+    color: #A2A9B1;
+}
+
+.engE {
+    margin-left: 500px;
+    margin-bottom: 15px;
+    width: 150px;
+}
+
+.engE:hover {
+    background-color: #27292D;
+}
+
+.engE a {
+    font-size: 16px;
+    font-weight: 700;
+    text-decoration: none;
+    color: #87A1E6;
+}
+
+.engE small {
+    color: #A2A9B1;
+}
+
+
+.midimg {
+    margin-top: 7%;
+    margin-right: 1.1%;
+}
+
+.midimg img {
+    width: 115px;
+
+}
+
+.secondside {
+    margin-top: 3%;
+}
+
+.eng1 {
+    margin-right: 500px;
+    margin-bottom: 15px;
+    width: 150px;
+}
+
+.eng1:hover {
+    background-color: #27292D;
+}
+
+.eng1 a {
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none;
+    color: #87A1E6;
+}
+
+.eng1 small {
+    color: #A2A9B1;
+}
+
+.eng2 {
+    /* margin-right: px; */
+    margin-bottom: 15px;
+    width: 150px;
+    margin-left: 50px;
+}
+
+.eng2:hover {
+    background-color: #27292D;
+}
+
+.eng2 a {
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none;
+    color: #87A1E6;
+}
+
+.eng2 small {
+    color: #A2A9B1;
+}
+
+.eng3 {
+    /* margin-right: 320px; */
+    margin-bottom: 15px;
+    width: 150px;
+    margin-left: 63px;
+}
+
+.eng3:hover {
+    background-color: #27292D;
+}
+
+.eng3 a {
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none;
+    color: #87A1E6;
+}
+
+.eng3 small {
+    color: #A2A9B1;
+}
+
+.eng4 {
+    /* margin-right: 410px; */
+    margin-left: 50px;
+    margin-bottom: 15px;
+    width: 150px;
+}
+
+.eng4:hover {
+    background-color: #27292D;
+}
+
+.eng4 a {
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none;
+    color: #87A1E6;
+}
+
+.eng4 small {
+    color: #A2A9B1;
+}
+
+.eng5 {
+    margin-right: 410px;
+    margin-bottom: 15px;
+    width: 150px;
+}
+
+.eng5:hover {
+    background-color: #27292D;
+}
+
+.eng5 a {
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none;
+    color: #87A1E6;
+}
+
+.eng5 small {
+    color: #A2A9B1;
+}
