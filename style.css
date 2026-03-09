@@ -274,3 +274,23 @@ main {
 .eng5 small {
     color: #A2A9B1;
 }
+
+.unlockdiv{
+    margin-top: 2%;
+}
+
+.unlockdiv button{
+    background-color: #FFE49C;
+    padding: 0 40px;
+    height: 45px;
+    font-size: 14px;
+    font-weight: 700;
+    border: none;
+    border-radius: 2px;
+}
+
+.unlockdiv button:hover{
+    background-color: #27292D;
+    border: 1px solid #65696F;
+    color: #A6BBF5;
+}
