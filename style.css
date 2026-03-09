@@ -8,12 +8,9 @@ body {
     background-color: #101418;
 }
 
-main {
-    text-align: center;
-}
-
 .wikicontainer {
     margin-top: 35px;
+    text-align: center;
 }
 
 .wikicontainer h1 {
@@ -277,6 +274,7 @@ main {
 
 .unlockdiv{
     margin-top: 2%;
+    text-align: center;
 }
 
 .unlockdiv button{
